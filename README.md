@@ -1,2 +1,2 @@
 # my-first-repo
-this is my first repo 20200307
+this is my awesome repo 20200307
